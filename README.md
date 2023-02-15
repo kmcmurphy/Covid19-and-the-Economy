@@ -29,7 +29,6 @@ Flights returned to near normal levels of over a million flights per month by ar
 ![image](https://user-images.githubusercontent.com/116906733/219102927-a7491340-221c-40a1-9e11-132f7ef24a05.png)
 
 ## Were there areas within industries that helped to buoy or drag down that sector more than others? 
-![image](https://user-images.githubusercontent.com/116906733/218923029-599fe4bc-8260-4a62-936c-0927ce4b25fc.png)
 
 #### Within Travel Category:
 Foreign travel by U.S. residents dropped the most during Covid in 2020 by -71.8% YoY<br>
@@ -37,7 +36,7 @@ Water transportation gained the most during Covid in 2020 by -39.3% YoY<br>
 Less: Expenditures in the United States by nonresidents recovered the least in 2021 by -2.8% YoY<br>
 Air transportation recovered the most in 2021 by 94.9% YoY<br>
 
-![image](https://user-images.githubusercontent.com/116906733/218923301-4385f32b-af0f-4198-a633-bf5fcc634aa7.png)
+![image](https://user-images.githubusercontent.com/116906733/218923029-599fe4bc-8260-4a62-936c-0927ce4b25fc.png)
 
 #### Within Durable Goods Category:
 Telephone and related communication equipment dropped the most in 2020 during Covid by -16.9% YoY<br>
@@ -56,6 +55,8 @@ Membership clubs, sports centers, parks, theaters, and museums dropped the most 
 Internet access gained the most during Covid in 2020 by 3.2% YoY<br>
 Water supply and sanitation recovered the least in 2021 by 5.1% YoY<br>
 Gambling recovered the most in 2021 by 37.3% YoY<br>
+
+![image](https://user-images.githubusercontent.com/116906733/218923301-4385f32b-af0f-4198-a633-bf5fcc634aa7.png)
 
 ## Were there defining moments in time that had the biggest effect positively or negatively?
 Analysis of Q2 data
