@@ -57,23 +57,26 @@ Air transportation recovered the most in 2021 by 94.9% YoY<br>
 ![image](https://user-images.githubusercontent.com/116906733/218923029-599fe4bc-8260-4a62-936c-0927ce4b25fc.png)
 
 #### Within Durable Goods Category:
+##### 2020
 Telephone and related communication equipment dropped the most in 2020 during Covid by -16.9% YoY<br>
 Sporting equipment, supplies, guns, and ammunition gained the most in 2020 during Covid by 27.7% YoY<br>
-
+##### 2021
 Household appliances recovered the least in 2021 by 17.6% YoY<br>
 Net purchases of used motor vehicles recovered the most in 2021 by 50.6% YoY<br>
 
 #### Within Non-Durable Goods Category:
+##### 2020
 Womens and girls clothing dropped the most in during Covid in 2020 by -11.4% YoY<br>
 Alcoholic beverages purchased for off-premises consumption gained the most during Covid in 2020 by 12.8% YoY<br>
-
+##### 2021
 Tobacco recovered the least in 2021 by 3.5% YoY<br>
 Womens and girls clothing recovered the most in 2021 by 29.4% YoY<br>
 
 #### Within Services Category:
+##### 2020
 Membership clubs, sports centers, parks, theaters, and museums dropped the most during Covid in 2020 by -47.3% YoY<br>
 Internet access gained the most during Covid in 2020 by 3.2% YoY<br>
-
+##### 2021
 Water supply and sanitation recovered the least in 2021 by 5.1% YoY<br>
 Gambling recovered the most in 2021 by 37.3% YoY<br>
 
