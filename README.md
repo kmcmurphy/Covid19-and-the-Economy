@@ -1,4 +1,6 @@
 # COVID - 19 and the Economy
+![image](https://user-images.githubusercontent.com/116906733/218918331-1854daf7-59c9-47ec-a0b5-9da8ac17ed76.png)
+
 In 2020, the Covid-19 virus plagued the world, triggering lockdowns and public restrictions, causing impacts to global economies never before seen. While the effects of this pandemic are well known, we will look at prevalence of the disease and reactions by the government in order to examine the impact to air travel, 
 economic performance, and how recovery efforts are progressing. Using data from various sources, we will review trends leading up to and through the pandemic (2019-2022). We will also analyze 2020 across different milestones that occurred in the US response to the ongoing pandemic.
 ## How was air travel impacted overall and regionally by the pandemic?
