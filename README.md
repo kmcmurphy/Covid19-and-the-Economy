@@ -31,6 +31,12 @@ Flights returned to near normal levels of over a million flights per month by ar
 ## Were there areas within industries that helped to buoy or drag down that sector more than others? 
 ![image](https://user-images.githubusercontent.com/116906733/218923029-599fe4bc-8260-4a62-936c-0927ce4b25fc.png)
 
+#### Within durable goods category:
+Telephone and related communication equipment dropped the most in 2020 during Covid by -16.9% YoY
+Sporting equipment, supplies, guns, and ammunition gained the most in 2020 during Covid by 27.7% YoY
+Household appliances recovered the least in 2021 by 17.6% YoY
+Net purchases of used motor vehicles recovered the most in 2021 by 50.6% YoY
+
 ![image](https://user-images.githubusercontent.com/116906733/218923301-4385f32b-af0f-4198-a633-bf5fcc634aa7.png)
 
 ## Were there defining moments in time that had the biggest effect positively or negatively?
