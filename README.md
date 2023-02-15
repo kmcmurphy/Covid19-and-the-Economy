@@ -21,15 +21,17 @@ Around April to May of 2020 flights dropped from over 1.5 million per month in J
 Flights returned to near normal levels of over a million flights per month by around June 2020 then rose during Q4 in 2020 to Q2 in 2021 peaking at almost 2 million flights per month which may relate to the spike in COVID-19 cases around the same time.
 
 ## Which industries and areas have experienced the most change since the pandemic?
+![image](https://user-images.githubusercontent.com/116906733/219103472-ca26b4a8-6ca8-4ade-bb20-e1bb51516f01.png)
+
+## Were there differences in performance regionally across the US?
+![image](https://user-images.githubusercontent.com/116906733/219102812-fb35e34e-338c-410a-8e59-726daabb9add.png)
+
+![image](https://user-images.githubusercontent.com/116906733/219102927-a7491340-221c-40a1-9e11-132f7ef24a05.png)
+
+## Were there areas within industries that helped to buoy or drag down that sector more than others? 
 ![image](https://user-images.githubusercontent.com/116906733/218923029-599fe4bc-8260-4a62-936c-0927ce4b25fc.png)
 
 ![image](https://user-images.githubusercontent.com/116906733/218923301-4385f32b-af0f-4198-a633-bf5fcc634aa7.png)
-
-## Were there differences in performance regionally across the US?
-insert gdp data
-
-## Were there areas within industries that helped to buoy or drag down that sector more than others? 
-insert gdp data
 
 ## Were there defining moments in time that had the biggest effect positively or negatively?
 Analysis of Q2 data
