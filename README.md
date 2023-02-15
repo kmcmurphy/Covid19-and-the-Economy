@@ -16,7 +16,7 @@ COVID-19 cases per quarter show a steady increase of covid cases during 2020. Th
 ## How was air travel impacted overall and regionally by the pandemic?
 ![image](https://user-images.githubusercontent.com/116906733/218922470-050ac8a8-126f-4403-a7e6-02316a46131f.png)
 
-Around April to May of 2020 flights dropped from over 1.5 million per month in January 2020 to a little over 600,000 flights which relates to the time stay at home orders and travel hesitancy. Regions that saw the greatest impact were the Far West and Southeast which include popular travel destinations such as Las Vegas, Hawaii and Florida.
+Around April to May of 2020 flights dropped from over 1.5 million per month in January 2020 to a little over 600,000 flights which relates to the time of stay at home orders and travel hesitancy. Regions that saw the greatest impact were the Far West and Southeast which include popular travel destinations such as Las Vegas, Hawaii and Florida.
 
 Flights returned to near normal levels of over a million flights per month by around June 2020 then rose during Q4 in 2020 to Q2 in 2021 peaking at almost 2 million flights per month which may relate to the spike in COVID-19 cases around the same time.
 
