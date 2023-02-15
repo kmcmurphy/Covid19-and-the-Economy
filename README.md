@@ -73,3 +73,13 @@ Gambling recovered the most in 2021 by 37.3% YoY<br>
 
 ## Were there defining moments in time that had the biggest effect positively or negatively?
 The defining moments in the analysis were during Q2 and Q3 of 2020. The data shows that government issued mandatory stay at home orders were widespread as was the nearly instantaneous decrease in economic performance as measured by GDP. A second defining point was Q3 of 2020 when mandatory stay at home orders were cancelled resulting an a nearly instantaneous increase in economic performance. COVID-19 infections continued to rise regardless of the orders and the economy continued to grow regardless of the prevelance of the disease into 2021.
+
+#### Citations
+Data Sources:
+U.S. Bureau of Economic Analysis, "SQGDP2 Gross domestic product (GDP) by state 1/" (accessed Tuesday, February 07, 2023)<br>
+U.S. Bureau of Economic Analysis, "Gross Output by Industry" (accessed Tuesday, February 07, 2023)<br>
+U.S. Bureau of Economic Analysis, "SQGDP11 Contributions to percent change in real GDP 1/" (accessed Wednesday, February 08, 2023)<br>
+U.S. Census Bureau, https://www2.census.gov/geo/tiger/TIGER2020/STATE/ (accessed Wednesday, February 08, 2023)<br>
+U.S. Bureau of Economic Analysis, "SAPCE3 Personal consumption expenditures (PCE) by state by type of product 1/" (accessed Wed, February 8 - Wed Feb, 2023)<br>
+CDC, “United States COVID-19 Cases and Deaths by State over Time” (accessed Wednesday, February 08, 2023)<br>
+Data.gov: U.S. Department of Health & Human Services:Centers for Disease Control and Prevention:U.S. State and Territorial Stay-At-Home Orders: March 15, 2020 – May 31, 2021 by County by Day, https://catalog.data.gov/dataset/u-s-state-and-territorial-stay-at-home-orders-march-15-2020-may-31-2021-by-county-by-day-6013e (accessed Wednesday,February 8, 2023)
