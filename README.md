@@ -50,7 +50,7 @@ Michigan was one of the fastest recovering states and also showed the largest re
 ##### 2020
 Foreign travel by U.S. residents dropped the most during Covid in 2020 by -71.8% YoY<br>
 Water transportation dropped the least during Covid in 2020 by -39.3% YoY<br>
-#####2021
+##### 2021
 Less: Expenditures in the United States by nonresidents recovered the least in 2021 by -2.8% YoY<br>
 Air transportation recovered the most in 2021 by 94.9% YoY<br>
 
