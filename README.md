@@ -72,4 +72,4 @@ Gambling recovered the most in 2021 by 37.3% YoY<br>
 ![image](https://user-images.githubusercontent.com/116906733/218923301-4385f32b-af0f-4198-a633-bf5fcc634aa7.png)
 
 ## Were there defining moments in time that had the biggest effect positively or negatively?
-Analysis of Q2 data
+The defining moments in the analysis were during Q2 and Q3 of 2020. The data shows that government issued mandatory stay at home orders were widespread as was the nearly instantaneous decrease in economic performance as measured by GDP. A second defining point was Q3 of 2020 when mandatory stay at home orders were cancelled resulting an a nearly instantaneous increase in economic performance. COVID-19 infections continued to rise regardless of the orders and the economy continued to grow regardless of the prevelance of the disease into 2021.
