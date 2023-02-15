@@ -23,12 +23,14 @@ Flights returned to near normal levels of over a million flights per month by ar
 ## Which industries and areas have experienced the most change since the pandemic?
 ![image](https://user-images.githubusercontent.com/116906733/219103472-ca26b4a8-6ca8-4ade-bb20-e1bb51516f01.png)
 
-Industries that were heavily impacted in Q2 of 2020 were Food Services and Drinking Places, Accommodations, Amusements & Gambling, Arts & Entertainment, Motion Picture & Sound Recording, Water-Truck-Rail-Air & Passenger Transportation, Motor Vehicles & parts, Petroleum products, and Mining & Extraction. NonDefense Spend rose the most in Q2 of 2020 by 21.2% while Air Transportation declined the most in Q2 of 2020 by -71.1%. Q2 results for NonDefense Spend and Air Transportation are likely due to the need to secure income and basic needs for those not working during mandatory shutdowns and the travel restrictions put in place during that time. Accommodation rebounded the most in Q3 of 2020 by 78.3% while NonDefense Spend declined the most in Q3 of 2020 by -8.8%. Q3 results for Accomodation and NonDefense are likely due to the lifting of travel restrictions allowing for workers to resume operations.
+Industries that were heavily impacted in Q2 of 2020 were Food Services and Drinking Places, Accommodations, Amusements & Gambling, Arts & Entertainment, Motion Picture & Sound Recording, Water-Truck-Rail-Air & Passenger Transportation, Motor Vehicles & parts, Petroleum products, and Mining & Extraction.<br>
+NonDefense Spend rose the most in Q2 of 2020 by 21.2% while Air Transportation declined the most in Q2 of 2020 by -71.1%. Q2 results for NonDefense Spend and Air Transportation are likely due to the need to secure income and basic needs for those not working during mandatory shutdowns and the travel restrictions put in place during that time.<br>
+Accommodation rebounded the most in Q3 of 2020 by 78.3% while NonDefense Spend declined the most in Q3 of 2020 by -8.8%. Q3 results for Accomodation and NonDefense are likely due to the lifting of travel restrictions allowing for workers to resume operations.
 
 ## Were there differences in performance regionally across the US?
 ![image](https://user-images.githubusercontent.com/116906733/219102812-fb35e34e-338c-410a-8e59-726daabb9add.png)
 
-Utah experienced the smallest decline in Q2 of 2020 at -14.1% while Nevada experienced the largest decline in Q2 of 2020 at -49.6%.
+Utah experienced the smallest decline in Q2 of 2020 at -14.1% while Nevada experienced the largest decline in Q2 of 2020 at -49.6%.<br>
 Michigan experienced the largest rebound in Q3 of 2020 at 65.9% while Alaska experienced the smallest rebound in Q3 of 2020 at 14.2%
 
 ![image](https://user-images.githubusercontent.com/116906733/219102927-a7491340-221c-40a1-9e11-132f7ef24a05.png)
