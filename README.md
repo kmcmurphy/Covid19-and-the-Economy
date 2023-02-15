@@ -23,10 +23,21 @@ Flights returned to near normal levels of over a million flights per month by ar
 ## Which industries and areas have experienced the most change since the pandemic?
 ![image](https://user-images.githubusercontent.com/116906733/219103472-ca26b4a8-6ca8-4ade-bb20-e1bb51516f01.png)
 
+Industries that were heavily impacted in Q2 of 2020 were Food Services and Drinking Places, Accommodations, Amusements & Gambling, Arts & Entertainment, Motion Picture & Sound Recording, Water-Truck-Rail-Air & Passenger Transportation, Motor Vehicles & parts, Petroleum products, and Mining & Extraction. NonDefense Spend rose the most in Q2 of 2020 by 21.2% while Air Transportation declined the most in Q2 of 2020 by -71.1%. Q2 results for NonDefense Spend and Air Transportation are likely due to the need to secure income and basic needs for those not working during mandatory shutdowns and the travel restrictions put in place during that time. Accommodation rebounded the most in Q3 of 2020 by 78.3% while NonDefense Spend declined the most in Q3 of 2020 by -8.8%. Q3 results for Accomodation and NonDefense are likely due to the lifting of travel restrictions allowing for workers to resume operations.
+
 ## Were there differences in performance regionally across the US?
 ![image](https://user-images.githubusercontent.com/116906733/219102812-fb35e34e-338c-410a-8e59-726daabb9add.png)
 
+Utah experienced the smallest decline in Q2 of 2020 at -14.1% while Nevada experienced the largest decline in Q2 of 2020 at -49.6%.
+Michigan experienced the largest rebound in Q3 of 2020 at 65.9% while Alaska experienced the smallest rebound in Q3 of 2020 at 14.2%
+
 ![image](https://user-images.githubusercontent.com/116906733/219102927-a7491340-221c-40a1-9e11-132f7ef24a05.png)
+
+Nevada, Hawaii, and Louisiana all took 4 quarters for GDP to exceed Q1 of 2020 while 17 states recovered in only 1 quarter’s time. This slow recovery is likely due to the economy in those states’ reliance on industries that were heavily impacted by COVID-19 restrictions such as travel, accommodation, entertainment, food service and drinking places, and mining/oil/gas extraction and related products and services.
+
+![image](https://user-images.githubusercontent.com/116906733/219122928-61716f21-0fab-4531-92c5-e03e4f86393c.png)
+
+Michigan was one of the quickest recovering states and also showed the largest rebound in Q3 of 2020. The composition of Michigan’s economy consists of only 6.4% of industries heavily impacted by COVID-19. In contrast, heavily impacted industries make up 21.5% of Nevada’s economy.
 
 ## Were there areas within industries that helped to buoy or drag down that sector more than others? 
 
