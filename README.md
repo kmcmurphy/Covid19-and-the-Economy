@@ -94,3 +94,5 @@ U.S. Census Bureau, https://www2.census.gov/geo/tiger/TIGER2020/STATE/ (accessed
 U.S. Bureau of Economic Analysis, "SAPCE3 Personal consumption expenditures (PCE) by state by type of product 1/" (accessed Wed, February 8 - Wed Feb, 2023)<br>
 CDC, “United States COVID-19 Cases and Deaths by State over Time” (accessed Wednesday, February 08, 2023)<br>
 Data.gov: U.S. Department of Health & Human Services:Centers for Disease Control and Prevention:U.S. State and Territorial Stay-At-Home Orders: March 15, 2020 – May 31, 2021 by County by Day, https://catalog.data.gov/dataset/u-s-state-and-territorial-stay-at-home-orders-march-15-2020-may-31-2021-by-county-by-day-6013e (accessed Wednesday,February 8, 2023)
+Xavier Olive, Martin Strohmeier, & Jannis Lübbe. (2022). Crowdsourced air traffic data from The OpenSky Network 2020 (v22.10) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7323875
+Airport codes from: https://datahub.io/core/airport-codes which derived it from: https://ourairports.com/data/
